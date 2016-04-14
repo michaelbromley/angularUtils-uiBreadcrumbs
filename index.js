@@ -1,2 +1,2 @@
-require('./dirPagination');
-module.exports = 'angularUtils.directives.dirPagination';
+require('./uiBreadcrumbs');
+module.exports = 'angularUtils.directives.uiBreadcrumbs';
