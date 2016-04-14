@@ -1,0 +1,26 @@
+{
+  "name": "angular-utils-ui-breadcrumbs",
+  "version": "0.2.2",
+  "description": "Automatic breadcrumbs for angular-ui-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelbromley/angularUtils.git"
+  },
+  "keywords": [
+    "angularjs",
+    "breadcrumbs",
+    "directive",
+    "ui-router",
+    "angular"
+  ],
+  "author": "Michael Bromley <michael@michaelbromley.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelbromley/angularUtils/issues"
+  },
+  "homepage": "https://github.com/michaelbromley/angularUtils/tree/master/src/directives/uiBreadcrumbs"
+}
